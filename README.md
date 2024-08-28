@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Wes, I'm a Data Analyst at PACCAR, writer of the newsletter Bite-Sized Brilliance on Substack, and Web Developer in my free time. 
+
+I love rock-climbing, soccer, and spending time with my family. Guilty pleasure: watching Love Island w/ my girlfriend and our cats. 
 <!--
 **wesyancy/wesyancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
