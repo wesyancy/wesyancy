@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 My name is Wes, I'm a Data Analyst at PACCAR, writer of the newsletter Bite-Sized Brilliance on Substack, and Web Developer in my free time. 
 
