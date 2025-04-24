@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is Wes, I'm a Data Analyst at PACCAR, writer of the newsletter Bite-Sized Brilliance on Substack, and Web Developer in my free time. 
+I’m a creative, impact-driven front-end developer specializing in building scalable and performant web applications using React, Django, and AWS.
 
 I love rock-climbing, soccer, and spending time with my family. Guilty pleasure: watching Love Island w/ my girlfriend and our cats. 
 <!--
