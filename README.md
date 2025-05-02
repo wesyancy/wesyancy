@@ -2,7 +2,7 @@
 
 I’m a creative, impact-driven front-end developer specializing in building scalable and performant web applications using React, Django, and AWS.
 
-I love rock-climbing, soccer, and spending time with my family. Guilty pleasure: watching Love Island w/ my girlfriend and our cats. 
+I love rock-climbing, soccer, and spending time with my family. Guilty pleasure: watching trash reality TV w/ my fiance and our cats. 
 <!--
 **wesyancy/wesyancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
